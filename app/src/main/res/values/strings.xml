@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PhotoGallerypApp</string>
+    <string name="gallery_destination_title">Gallery</string>
+    <string name="details_destination_title">Photo details</string>
+    <string name="no_destination_title">Gallery App</string>
+</resources>
