@@ -21,7 +21,7 @@ Using the server [UnsplashApi](https://unsplash.com/documentation#creating-a-dev
   Kotlin & Kotlin Multiplatform application, from Android mobile, Multiplatform apps to backend Ktor
   server applications Koin is developed by Kotzilla and open-source contributors
 
-* [https://kotlinlang.org/docs/coroutines-overview.html](https://kotlinlang.org/docs/coroutines-overview.html)
+* [Coroutines](https://kotlinlang.org/docs/coroutines-overview.html)
   Asynchronous or non-blocking programming is an important part of the development landscape. When
   creating server-side, desktop, or mobile applications, it's important to provide an experience
   that is not only fluid from the user's perspective, but also scalable when needed.
